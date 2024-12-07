@@ -59,7 +59,6 @@ Pour compiler et exécuter les solutions, suivez ces étapes :
 3. Exécutez le programme :
    ```bash
    ./build/NAME input.txt [1|2]
-   Où NAME est le nom du programme et 1 ou 2 est la partie du problème à résoudre.
    ```
 
 ---
