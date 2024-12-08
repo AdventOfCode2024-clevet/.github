@@ -74,6 +74,7 @@ Pour compiler et exécuter les solutions, suivez ces étapes :
 | 5    | [Print Queue](https://github.com/AdventOfCode2024-clevet/5-Print-Queue) | ✔️ Complété |
 | 6    | [Guard Gallivant](https://github.com/AdventOfCode2024-clevet/6-Guard-Gallivant) | ✔️ Complété |
 | 7    | [Bridge Repair](https://github.com/AdventOfCode2024-clevet/7-Bridge-Repair) | ✔️ Complété |
+| 8    | [Resonant Collinearity](https://github.com/AdventOfCode2024-clevet/8-Resonant-Collinearity) | ✔️ Complété |
 
 ---
 
